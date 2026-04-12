@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/Redirect?action=OpenApp&appId=bbf0caa7-dee2-482e-b029-87e1e5565eab&ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79)_
+## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/groups/06cdec44-3220-48a9-87bc-6d3241c1bca6/reports/cce5a1c6-44ca-4a40-a893-8c6182b06ac7/e0d0e7bad7cb75f5b77a?redirectedFromSignup=1&experience=power-bi)_
 ## Home Page :
 
 
