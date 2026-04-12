@@ -47,7 +47,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Marketing View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Marketing-View.pdf)_
+    **1.** Created a Dashboard for _[Marketing View](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Marketing%20View.pdf)_
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
   
