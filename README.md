@@ -33,7 +33,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Sales View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Sales-View.pdf)_
+    **1.** Created a Dashboard for _[Sales View](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Sales%20View.pdf)_
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
