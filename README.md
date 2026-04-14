@@ -168,7 +168,7 @@ Live Dashboard : [Link](https://app.powerbi.com/links/Sp8A0lLOLJ?ctid=2bb44e71-1
 ----------
 
 ### Supply Chain View :
-![supply chain view](http://github.com/utkarsh2387/Business-Insights-360/blob/main/images/Supply%20Chain%20View.png)
+![supply chain view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/images/Supply%20Chain%20View.png)
 
 -----------
 
