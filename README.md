@@ -148,27 +148,27 @@ Competitive Position & Market Share:
 Live Dashboard : [Link](https://app.powerbi.com/links/Sp8A0lLOLJ?ctid=2bb44e71-1601-4af2-a592-4224ddcfb1c3&pbi_source=linkShare)
 
 ### Home Page :
-![home page](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Home%20Page.pdf)
+![home page](https://github.com/utkarsh2387/Business-Insights-360/blob/main/images/Home%20Page.png)
 
 ----------
 
 ### Finance View :
-![finance view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Finance%20View.pdf)
+![finance view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/images/Finance%20View.png)
 
 ------------
 
 ### Sales View :
-![sales view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Sales%20View.pdf)
+![sales view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/images/Sales%20View.png)
 
 -----------
 
 ### Marketing View :
-![marketing view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Marketing%20View.pdf)
+![marketing view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/images/Marketing%20View.png)
 
 ----------
 
 ### Supply Chain View :
-![supply chain view](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Supply%20Chain%20View.pdf)
+![supply chain view](http://github.com/utkarsh2387/Business-Insights-360/blob/main/images/Supply%20Chain%20View.png)
 
 -----------
 
