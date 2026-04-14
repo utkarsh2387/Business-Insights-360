@@ -145,7 +145,7 @@ Competitive Position & Market Share:
 
 ---------------------------------
 
-Live Dashboard : [Link]([https://app.powerbi.com/view?r=eyJrIjoiNDg0NWNjMjktOGRmZC00YmRiLWJjN2QtNDM0MmEzOTQ4NjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=85afd60f8b2ac5c101f0](https://app.powerbi.com/links/Sp8A0lLOLJ?ctid=2bb44e71-1601-4af2-a592-4224ddcfb1c3&pbi_source=linkShare))
+Live Dashboard : [Link](https://app.powerbi.com/links/Sp8A0lLOLJ?ctid=2bb44e71-1601-4af2-a592-4224ddcfb1c3&pbi_source=linkShare)
 
 ### Home Page :
 ![home page](https://github.com/utkarsh2387/Business-Insights-360/blob/main/Home%20Page.pdf)
